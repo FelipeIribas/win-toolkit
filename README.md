@@ -1,10 +1,12 @@
-🚀 Windows Optimizer & Config Tool
+ 🚀 Windows Optimizer & Config Tool
 
 Una herramienta sencilla basada en comandos Batch para automatizar la configuración, optimización y limpieza de Windows de forma rápida.
 
-⚠️ Requisitos Previos
+ ⚠️ Requisitos Previos
 
-Para que el script funcione correctamente y pueda modificar configuraciones del sistema, debes ejecutarlo como Administrador. 🛠️ Cómo usarlo
+Para que el script funcione correctamente y pueda modificar configuraciones del sistema, debes ejecutarlo como Administrador. 
+
+ 🛠️ Cómo usarlo
 
 - Descarga el archivo
 
